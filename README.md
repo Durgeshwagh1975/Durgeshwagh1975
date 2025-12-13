@@ -1,6 +1,27 @@
 # Hey 👋, I'm Durgesh Wagh!
 
-### 💻 Software Engineer | Full Stack Developer (MERN)
+###  Software Engineer | Full Stack Developer (MERN)
+
+<details>
+  <summary><b>🔗 Connect with me</b></summary>
+
+  <br>
+
+  <p align="left">
+    <a href="https://www.linkedin.com/in/durgesh-wagh/" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+    <a href="https://github.com/Durgeshwagh1975" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:durgeshwagh607@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+  </p>
+
+</details>
+
+---
 
 Glad to see you here! 😊  
 I’m a passionate Software Engineer who loves building clean, scalable, and efficient applications.  
@@ -8,7 +29,7 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 - 👨‍💻 Full Stack Developer working with **MERN Stack**
 - 🔭 Currently working on **React.js & Node.js**
@@ -19,25 +40,11 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ---
 
+##  Languages & Tools
+
 ## 🛠 Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,nodejs,express,mongodb,mysql,java,html,css,tailwind,git,github,gcp)
-
----
-
-## 📌 Projects
-
-### 🧠 AI-Based Trip Planner Platform
-- MERN-based smart travel planning platform
-- Integrated **OpenAI API** for AI-powered travel suggestions
-- Used **Google Maps API** for real-time locations & route optimization
-- Built responsive UI for better user experience
-
-### 🚜 Rental Equipment Platform for Farmers
-- Platform for renting & purchasing farming equipment
-- Secure backend APIs with **Node.js & Express**
-- Database designed using **MySQL**
-- Implemented user roles (Admin / Farmer)
+![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,mongodb,mysql,postgres,sqlite,java,html,css,tailwind,git,github,npm,vite)
 
 ---
 
@@ -57,6 +64,6 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ---
 
-## 👀 Profile Views
+##  Profile Views
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Durgeshwagh1975&color=blue)
