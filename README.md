@@ -1,4 +1,4 @@
-# Hey 👋, I'm Durgesh Wagh!
+# Hey 👋, I'm Durgesh Wagh !
 
 <p align="left">
   <a href="https://www.linkedin.com/in/durgesh-wagh/" target="_blank">
@@ -14,7 +14,7 @@
 
 ###  Software Engineer | Full Stack Developer (MERN)
 
-Glad to see you here! 😊  
+Glad to see you here !  
 I’m a passionate Software Engineer who loves building clean, scalable, and efficient applications.  
 I enjoy exploring new technologies and continuously improving my problem-solving skills.
 
