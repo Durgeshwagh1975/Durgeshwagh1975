@@ -39,10 +39,9 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Durgeshwagh1975&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
-</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=Durgeshwagh1975&show_icons=true&bg_color=0d1117&title_color=00e5ff&icon_color=00e5ff&text_color=c9d1d9&hide_border=true"/>
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&layout=compact&bg_color=0d1117&title_color=00e5ff&text_color=c9d1d9&hide_border=true"/>
 
 ---
 
