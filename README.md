@@ -12,8 +12,6 @@
   </a>
 </p>
 
-###  Software Engineer | Full Stack Developer (MERN)
-
 Glad to see you here !  
 I’m a passionate Software Engineer who loves building clean, scalable, and efficient applications.  
 I enjoy exploring new technologies and continuously improving my problem-solving skills.
@@ -41,9 +39,10 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ## 📊 GitHub Stats
 
-![Durgesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durgeshwagh1975&show_icons=true&theme=radical)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&layout=compact&theme=radical)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Durgeshwagh1975&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+</p>
 
 ---
 
