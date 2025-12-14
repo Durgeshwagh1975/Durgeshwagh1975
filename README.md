@@ -31,7 +31,11 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ##  Languages & Tools
 
-![My Skills](https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,mongodb,mysql,postgres,sqlite,java,html,css,tailwind,git,github,npm,vite)
+<p align="center">
+  <img 
+    src="https://skillicons.dev/icons?i=js,ts,react,angular,nodejs,express,mongodb,mysql,postgres,sqlite,java,html,css,tailwind,git,github,npm,vite&theme=dark&perline=9" 
+  />
+</p>
 
 ---
 
