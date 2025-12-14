@@ -39,10 +39,10 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ## 📊 GitHub Stats
 
-![Durgesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durgeshwagh1975&show_icons=true&bg_color=0D1117&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF&border_color=30363D)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&layout=compact&theme=tokyonight&card_width=445)
-
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Durgeshwagh1975&show_icons=true&theme=tokyonight&card_width=445" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&layout=compact&theme=tokyonight&card_width=445" />
+</p>
 
 ---
 
