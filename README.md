@@ -39,10 +39,9 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ## 📊 GitHub Stats
 
+![Durgesh's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Durgeshwagh1975&show_icons=true&theme=tokyonight)
 
-  <img src="https://github-readme-stats.vercel.app/api?username=Durgeshwagh1975&show_icons=true&theme=tokyonight&card_width=500&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&theme=tokyonight&card_width=500&hide_border=true&langs_count=4&hide=css,java,c%2B%2B" />
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&layout=compact&theme=tokyonight)
 
 ---
 
