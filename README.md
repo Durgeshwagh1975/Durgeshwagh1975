@@ -18,15 +18,6 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ---
 
-##  About Me
-
-- 👨‍💻 Full Stack Developer specializing in the **MERN Stack**, with familiarity in **Angular**
-- 🔭 Currently working on **React.js & Node.js**
-- 🌱 Learning **Full Stack Development (Node.js, Express, React)**
-- 🎯 Practicing **Data Structures & Algorithms**
-
----
-
 ##  Languages & Tools
 
 <p align="center">
