@@ -1,6 +1,9 @@
-# 💫 About Me:
-An Information Technology Student at Svkm's Institute of Technology, Full-stack software developer skilled in React, Node.js, Express.js, MySQL, and REST APIsI’m a passionate Software Engineer who loves building clean, scalable, and efficient applications.<br>I enjoy exploring new technologies and continuously improving my problem-solving skills.<br><br>
+# Hey 👋, I'm Durgesh Wagh !
 
+# 💫 About Me:
+Glad to see you here !  
+I’m a passionate Software Engineer who loves building clean, scalable, and efficient applications.  
+I enjoy exploring new technologies and continuously improving my problem-solving skills.
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/durgesh-wagh) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:durgeshwagh607@gmail.com) 
@@ -16,6 +19,6 @@ An Information Technology Student at Svkm's Institute of Technology, Full-stack 
 ![](https://github-contributor-stats.vercel.app/api?username=Durgeshwagh1975&limit=5&theme=swift&combine_all_yearly_contributions=true)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Durgeshwagh1975&icon=10&color=12)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+##  Profile Views
+![Profile Views](https://komarev.com/ghpvc/?username=Durgeshwagh1975&color=blue)
