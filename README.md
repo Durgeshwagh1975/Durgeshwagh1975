@@ -1,7 +1,6 @@
 # Hey 👋, I'm Durgesh Wagh !
 
-# 💫 About Me:
-Glad to see you here !  
+💫 Glad to see you here !  
 I’m a passionate Software Engineer who loves building clean, scalable, and efficient applications.  
 I enjoy exploring new technologies and continuously improving my problem-solving skills.
 
