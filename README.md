@@ -23,9 +23,8 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Durgeshwagh1975&limit=5&theme=holi&combine_all_yearly_contributions=true)
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Durgeshwagh1975&limit=5&theme=holi&combine_all_yearly_contributions=true)
 
+---
 
 ##  Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Durgeshwagh1975&color=blue)
