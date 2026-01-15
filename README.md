@@ -22,9 +22,10 @@ I enjoy exploring new technologies and continuously improving my problem-solving
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Durgeshwagh1975&theme=holi&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Durgeshwagh1975&limit=5&theme=swift&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=Durgeshwagh1975&limit=5&theme=holi&combine_all_yearly_contributions=true)
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=Durgeshwagh1975&limit=5&theme=holi&combine_all_yearly_contributions=true)
 
----
 
 ##  Profile Views
 ![Profile Views](https://komarev.com/ghpvc/?username=Durgeshwagh1975&color=blue)
